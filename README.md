@@ -4,10 +4,9 @@ Este proyecto es una aplicación de Python que permite a los usuarios ingresar d
 ## Requisitos
 
 - Python 3.10
-- Pytesseract
-- Tesseract OCR
 - Tkinter
 - Tabulate
+- csv
 
 ## Instalación
 
@@ -15,11 +14,10 @@ Este proyecto es una aplicación de Python que permite a los usuarios ingresar d
 2. Instala las dependencias necesarias con el siguiente comando:
 
 ```bash
-pip install pytesseract tkinter tabulate
+pip install tkinter tabulate
 ```
 
-3. Descarga e instala Tesseract OCR desde el [repositorio oficial de GitHub](https://github.com/UB-Mannheim/tesseract/wiki).
-4. Asegúrate de que la ubicación del ejecutable de Tesseract (normalmente `C:\Program Files\Tesseract-OCR`) esté en tu variable de entorno PATH.
+3. Asegúrate de que la ubicación del ejecutable de Tesseract (normalmente `C:\Program Files\Tesseract-OCR`) esté en tu variable de entorno PATH.
 
 ## Forma alternativa
 
