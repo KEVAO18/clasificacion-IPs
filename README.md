@@ -1,5 +1,4 @@
-# Nombre del Proyecto
-
+# Clasificacion de ips
 Este proyecto es una aplicación de Python que permite a los usuarios ingresar direcciones IP y obtener información detallada sobre ellas.
 
 ## Requisitos
