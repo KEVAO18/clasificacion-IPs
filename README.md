@@ -23,7 +23,7 @@ pip install pytesseract tkinter tabulate
 
 ## Forma alternativa
 
-- descargar el siguiente [ejecutable](https://github.com/KEVAO18/clasificacion-IPs/releases/tag/v2).
+- descargar el siguiente [ejecutable](https://github.com/KEVAO18/clasificacion-IPs/releases/tag/v2), este te permite descargar una version exe (no el codigo fuente).
 
 ## Uso
 
