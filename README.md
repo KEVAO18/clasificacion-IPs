@@ -21,6 +21,10 @@ pip install pytesseract tkinter tabulate
 3. Descarga e instala Tesseract OCR desde el [repositorio oficial de GitHub](https://github.com/UB-Mannheim/tesseract/wiki).
 4. Asegúrate de que la ubicación del ejecutable de Tesseract (normalmente `C:\Program Files\Tesseract-OCR`) esté en tu variable de entorno PATH.
 
+## forma alternativa
+
+- descargar el siguiente [ejecutable](https://github.com/KEVAO18/clasificacion-IPs/releases/tag/v2).
+
 ## Uso
 
 Ejecuta el archivo `main.py` para iniciar la aplicación. Se te presentará un menú con varias opciones:
